@@ -1,0 +1,42 @@
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+}
+
+img{
+    
+    height: 300px;
+    width: 200px;
+}
+
+.padding{
+    padding: 20px;
+}
+.tile {
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(217, 173, 85);
+    padding: 10px;
+    
+  }
+
+
+.card-text{
+    padding-left: 200px;
+    font-size: 40px;
+}
+
+.card-title{
+    /* padding-left: 100px; */
+    text-align: center;
+    font-size: 60px;
+}
+
+.card-body{
+    text-align: center;
+}
+
+.title{
+    font-size: x-large;
+}
+
